@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Javokhir</h1>
-<h3 align="center">An adroit software enginner.</h3>
+<h3 align="center">An Android Developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=javokhirakramjonov&label=Profile%20views&color=0e75b6&style=flat" alt="javokhirakramjonov" /> </p>
 
