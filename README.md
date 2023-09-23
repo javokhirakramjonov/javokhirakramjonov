@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Javokhir</h1>
-<h3 align="center">An Android Developer.</h3>
+<h3 align="center">Software engineer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=javokhirakramjonov&label=Profile%20views&color=0e75b6&style=flat" alt="javokhirakramjonov" /> </p>
 
-- 🔭 I’m currently working on **Reach Your Goal Application**
+- 🔭 I’m currently working in **Koodrick**
 
-- 🌱 I’m currently learning **Jetpack Compose and Backend**
+- 🌱 I’m currently working and learning **Fullstack development**
 
 - 💬 Ask me about **Java, Kotlin, Algorithms**
 
