@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=javokhirakramjonov&label=Profile%20views&color=0e75b6&style=flat" alt="javokhirakramjonov" /> </p>
 
-- 🔭 I’m currently working in **Koodrick**
+- 🔭 I’m currently working in **Devbridge**
 
 - 🌱 I’m currently working and learning **Fullstack development**
 
