@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=javokhirakramjonov&label=Profile%20views&color=0e75b6&style=flat" alt="javokhirakramjonov" /> </p>
 
-- 🔭 I’m currently having an internship at **Devbridge**
+- 🔭 I’m currently working at **Koodrick**
 
-- 🌱 I’m currently working and learning **Fullstack development**
+- 🌱 I’m currently working on and learning **Backend development**
 
 - 💬 Ask me about **Java, Kotlin, Algorithms**
 
-- 📫 How to reach me **javokhirakromjonov@gmail.com**
+- 📫 How to reach me **javokhir.akramjonov@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
